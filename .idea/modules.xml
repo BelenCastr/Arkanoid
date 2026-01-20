@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arkanoid.iml" filepath="$PROJECT_DIR$/Arkanoid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../GameEngine/GameEngine.iml" filepath="$PROJECT_DIR$/../../GameEngine/GameEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GameEngine/GameEngine2.iml" filepath="$PROJECT_DIR$/../GameEngine/GameEngine2.iml" />
     </modules>
   </component>
 </project>

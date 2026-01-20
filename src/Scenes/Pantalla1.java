@@ -1,12 +1,10 @@
 package Scenes;
 
 import Engine.Game;
+import Engine.GameObject;
 import Engine.Scene;
-import Objects.Ball;
+import Objects.*;
 import Game.Config;
-import Objects.Brick;
-import Objects.DeadLine;
-import Objects.Player;
 
 import java.awt.*;
 
@@ -45,6 +43,7 @@ public class Pantalla1 extends Scene {
                 ));
             }
         }
+
     }
 
 
